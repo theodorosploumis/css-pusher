@@ -1,0 +1,16 @@
+{
+    "name": "tpl/css-pusher",
+    "description": "Turn any CSS file into a widget to add classes",
+    "type": "library",
+    "require": {
+        "sabberworm/php-css-parser": "dev-master"
+    },
+    "license": "GPLV3",
+    "authors": [
+        {
+            "name": "TheodorosPloumis",
+            "email": "me@theodorosploumis.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
